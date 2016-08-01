@@ -21,6 +21,7 @@ prioridades
 
 FB/TT/Insta/YT
 GITHUB
+IM/IRC/WIKI/TLGRM/ACTOR...
 LICENÇAS
 
 EDUCAÇÃO
@@ -34,6 +35,7 @@ GRUPOS DE TRABALHO
 composição jurídica
 recebimento de valores
 
+- calendário
 - campanhas
 - coletivos
 - bicicletas para levantamento de dados
