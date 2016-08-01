@@ -42,3 +42,5 @@ recebimento de valores
 - bicis|ciclos|cultura
 - movimentos
 - mini-ações
+
+![Org canvas](https://cleverdigit.files.wordpress.com/2015/09/project-canvas-by-clearleft-v0-2.png)
